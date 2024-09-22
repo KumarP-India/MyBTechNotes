@@ -1,0 +1,71 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #f5f5f5;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Aligning content with some space at the top */
+    height: 100vh;
+}
+
+.container {
+    text-align: left;
+    width: 100%;
+    padding: 80px 73px; /* Fixed padding on top (80px) and left & right (64px) */
+    box-sizing: border-box; /* Ensures padding is inside the box model */
+}
+
+.top {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 20vh; /* Adjusted gap between 404 and header */
+}
+
+.header {
+    font-size: 48px; /* Original size */
+    margin-bottom: 15vh;
+    font-weight: 400; /* Removed bold */
+}
+
+.desc {
+    font-size: 24px; /* Original size */
+    font-weight: 400; /* Removed bold */
+    max-width: 1400px;
+    margin-bottom: 15vh;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 40px 32px; /* Adjust padding for tablet-sized screens */
+    }
+    
+    .header {
+        font-size: 2.5rem;
+    }
+
+    .desc {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 40px 16px; /* Further reduce padding for mobile */
+    }
+    
+    .top {
+        font-size: 1rem;
+        margin-bottom: 17vh;
+    }
+
+    .header {
+        font-size: 2rem;
+    }
+    
+    .desc {
+        font-size: 1rem;
+        max-width: calc(100vw - 32px);
+    }
+}
