@@ -16,19 +16,45 @@ body {
 }
 
 /* Theme Variables */
-:root {
-    --bg-color: #ffffff;
-    --text-color: #000000;
-    --input-bg-color: #f0f0f0;
-    --result-bg-color: #e0e0e0;
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg-color: rgb(249, 249, 249);
+        --text-color: rgb(8, 8, 8);
+        --result-bg-color: rgb(255, 255, 255);
+        --percent-color: rgb(97, 97, 97);
+        --outline: rgb(0, 0, 0); 
+    }
+
+    ::selection {
+        background-color: rgb(50, 50, 50);
+        color: rgb(250, 250, 250);
+    }
+
+    ::-moz-selection {
+        background-color: rgb(50, 50, 50);
+        color: rgb(250, 250, 250);
+    }
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg-color: #000000;
-        --text-color: #ffffff;
-        --input-bg-color: #1a1a1a;
-        --result-bg-color: #333333;
+        --bg-color: rgb(8, 8, 8);
+        --text-color: rgb(255, 255, 255);
+        --result-bg-color: rgb(23, 23, 23);
+        --percent-color: rgb(180, 180, 180);
+        --outline: #4D90FE;
+    }
+
+    ::selection {
+        background-color: rgb(255, 255, 255); /* Change this to your desired color */
+        color: rgb(8, 8, 8);
+    }
+
+    ::-moz-selection {
+        background-color: rgb(255, 255, 255); /* Change this to your desired color */
+        color: rgb(8, 8, 8);
+    
     }
 }
 
@@ -52,7 +78,7 @@ body {
     left: 0;
     width: 100%;
     font-size: 72px;
-    color: var(--text-color);
+    color: rgb(140, 140, 140);
     pointer-events: none;
     text-align: left;
     z-index: 1;
@@ -135,6 +161,12 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
     border-radius: 6px;
+    cursor: pointer; /* Make the result box cursor a pointer */
+}
+
+/* Ensure links inside result box have default cursor */
+.result-box a {
+    cursor: default;
 }
 
 /* Hover Effect */
@@ -153,13 +185,43 @@ body {
     font-size: 14px;
 }
 
+/* Adjusted Link Styling */
+.result-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.result-title a:hover {
+    text-decoration: underline;
+}
+
 .result-match {
     font-size: 13px;
-    color: #888;
+    color: var(--percent-color);
     text-align: right;
 }
 
 /* Adjusting Margins */
 body {
     margin: 0 20px;
+}
+
+/* Highlight focused result boxes */
+.result-box:focus {
+    outline: 2px solid var(--outline); /* Or any color that suits your theme */
+}
+
+@media (max-width: 960px) {
+    .result-box {
+        grid-template-columns: 1fr; /* Switch to a single column */
+    }
+    .result-title {
+        margin-bottom: 20px; /* Add spacing between elements */
+    }
+    .result-tag {
+        margin-bottom: 20px; /* Add spacing between elements */
+    }
+    .result-match {
+        text-align: left; /* Adjust alignment if needed */
+    }
 }
