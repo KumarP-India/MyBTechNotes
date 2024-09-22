@@ -1,0 +1,165 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+/* Theme Variables */
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --input-bg-color: #f0f0f0;
+    --result-bg-color: #e0e0e0;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #000000;
+        --text-color: #ffffff;
+        --input-bg-color: #1a1a1a;
+        --result-bg-color: #333333;
+    }
+}
+
+/* Container */
+.container {
+    margin: 50px 30px;
+    padding: 20px;
+}
+
+/* Input Container */
+.input-container {
+    position: relative;
+    margin-top: 100px;
+    text-align: center;
+}
+
+/* Placeholder Text */
+#placeholder-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 72px;
+    color: var(--text-color);
+    pointer-events: none;
+    text-align: left;
+    z-index: 1;
+    transition: opacity 0.2s;
+}
+
+/* Large Input Field */
+#large-input {
+    width: 100%;
+    font-size: 72px;
+    border: none;
+    outline: none;
+    background: none;
+    color: var(--text-color);
+    text-align: left;
+    caret-color: var(--text-color);
+    z-index: 2;
+    position: relative;
+}
+
+/* Hide Placeholder When Input Has Content */
+.hide-placeholder #placeholder-text {
+    opacity: 0;
+}
+
+/* Search Results Section */
+#search-results {
+    margin-top: 50px;
+    padding-left: 50px; /* Increased padding */
+    padding-right: 50px; /* Increased padding */
+}
+
+/* Hidden Class */
+.hidden {
+    display: none;
+}
+
+/* Your Search */
+.your-search {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Search Term Input */
+#search-term {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid var(--text-color);
+    font-size: 72px;
+    padding: 5px 0;
+    margin-bottom: 50px;
+    background: none;
+    color: var(--text-color);
+    outline: none;
+}
+
+/* Your Results */
+.your-results {
+    font-size: 26px; /* Reduced font size */
+    font-weight: 400; /* Increased font weight */
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+/* Results Container */
+#results-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Individual Result Box */
+.result-box {
+    display: grid;
+    grid-template-columns: 250px 1fr auto;
+    align-items: center;
+    background-color: var(--result-bg-color);
+    padding-left: 20px;
+    padding-right: 60px; /* Right padding 3 times left padding */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 6px;
+}
+
+/* Hover Effect */
+.result-box:hover .result-title {
+    text-decoration: underline;
+}
+
+/* Result Text Styling */
+.result-tag {
+    font-size: 14px;
+}
+
+.result-title {
+    flex-grow: 1;
+    text-align: left;
+    font-size: 14px;
+}
+
+.result-match {
+    font-size: 13px;
+    color: #888;
+    text-align: right;
+}
+
+/* Adjusting Margins */
+body {
+    margin: 0 20px;
+}
