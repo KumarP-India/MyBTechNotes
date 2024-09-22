@@ -1,0 +1,247 @@
+[
+    {
+      "name": "Help",
+      "type": "Guide",
+      "synonyms": [
+        "Assistance",
+        "Support",
+        "Guide",
+        "Information",
+        "Info",
+        "General Help",
+        "Aid",
+        "Manual",
+        "Overview"
+      ],
+      "url": "https://prabhas.notion.site/Help-5837b16003004c5186f0beddda1431d5",
+      "children": [
+        {
+          "name": "Timetable & credit",
+          "type": "Page",
+          "synonyms": [
+            "Timetable",
+            "Schedule",
+            "Credits",
+            "Credit Hours",
+            "Academic Calendar",
+            "Grading System",
+            "Attendance",
+            "Exam Schedule",
+            "Marks",
+            "Grades"
+          ],
+          "url": "https://prabhas.notion.site/Timetable-credit-25cdd15eeed74bb9bf6d11eff1ef2726",
+          "content": "'\n[T1 timetable.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/d05bef86-2f5e-4030-92d7-9744a18151b0/ace55c7f-2b88-49a1-a2ac-130a23bd935d/T1_timetable.pdf)\n\n[T1 timetable.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/d05bef86-2f5e-4030-92d7-9744a18151b0/ccade798-6f09-44a3-9dff-0615126308e9/T1_timetable.pdf)\n\n| Type | Credits/ class |\n| --- | --- |\n| Theoretical | 1 |\n| Lab | 1/ (2 or 3) |\n\n45 min classes\n\n75% attendance\n\n---\n\n### Credit Requirements\n\n| After Year (Mid) | Credit requirements |\n| --- | --- |\n| 1 (Semester 2) | 24 |\n| 2 (Semester 4) | 60 |\n| 3 (Semester 6) | 107 |\n\n---\n\n### Credit calculation\n\n| Internal (CWS) | 30% |\n| --- | --- |\n| Mid Term Exam | 30% |\n| End Term Exam | 40% |\n\n| A+  | 10 |\n| --- | --- |\n| A | 9 |\n| B | 8 |\n| C | 7 |\n| D | 6 |\n| E | 5 |\n| F/ I/ DT | 0 |\n\n> To pass: 35% in End Term Examination AND 35% overall.\n> \n\n---\n\n### Credit breakdown\n\n```mermaid\ngraph TD;\n    A{Semester Credit}\n    A --> B{MTE} --> Z((30 %))\n     X --> F(Behaviour)\n    A --> X{CWS} --> C(Assignment)\n    C --> DDD((15 marks each))\n    DD --> DDD\n    X --> D{Quizes} --> DD(Best out of 3)\n    A --> Y{ETE} --> ZZ((40 %))\n   \n    X --> G(Attendance)\n```\n'",
+          "date": "16-09-2024"
+        },
+        {
+          "name": "Library",
+          "type": "Page",
+          "synonyms": [
+            "Library",
+            "Central Library",
+            "FoD Library",
+            "FoL Library",
+            "IRINS",
+            "NDLI",
+            "Digital Library",
+            "Library Hours",
+            "Resources",
+            "Contact Details"
+          ],
+          "url": "https://prabhas.notion.site/Library-f8698cec36f848cda16751acb2b533f2",
+          "content": "'\n| Library | Workdays | Holidays |\n| --- | --- | --- |\n| Central Library | 8:00 - 23:00 | 9:00 - 18:00 |\n| FoD Library | 9:00 - 18:00 | ! |\n| FoL Library  | 9:00 - 20:00 | 9:00 - 18:00 (on Saturdays only) |\n\n---\n\n### IRINS\n\n- INDIAN RESEARCH INFORMATION NETWORK SYSTEM (IRINS)\n- IRINS is web-based Research Information Management (RIM) service\n- The portal facilitates the academic, R&D organisations and faculty members, scientists to collect, curate and showcase the scholarly communication activities and provide an opportunity to create the scholarly network.\n- It has integrated with academic identity such as ORCID ID, ScopusID, Research ID, Microsoft Academic ID, Google Scholar ID for ingesting the scholarly publication from various sources.\n\nhttps://muj.irins.org/\n\n[](https://muj.irins.org/)\n\n---\n\n### NATIONAL DIGITAL LIBRARY OF INDIA\n\n[National Digital Library of India (NDLI)](https://ndl.iitkgp.ac.in/)\n\n---\n\n### Contact details\n\nDr. K.S.Shivraj\n\nChief Librarian\n\nExt. 179 \n\nPh: +91 99425 57347\n\nlibrary@jaipur.manipal.edu\n\ndigitallibrary@jaipur.manipal.edu\n'",
+          "date": "16-09-2024"
+        },
+        {
+          "name": "School of Information Security & Data Science - (SISD)",
+          "type": "Page",
+          "synonyms": [
+            "SISD",
+            "Information Security",
+            "Data Science",
+            "School",
+            "IT Department",
+            "DSE Department",
+            "Faculty",
+            "Departments",
+            "Directors",
+            "Heads"
+          ],
+          "url": "https://prabhas.notion.site/School-of-Information-Security-Data-Science-SISD-3f055f93d31d4481ae46e0b0ddb20285",
+          "content": "'\nHouses:\n\n1. Department of Information Technology (IT)\n2. Department of Data Science a Engineering (DSE)\n\n### Heads\n\n![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d05bef86-2f5e-4030-92d7-9744a18151b0/e2bed772-5efe-458b-a0a1-520bf16e2668/image.png)\n\nProf. Sumit Srivastava\n\nDirector\n\n![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d05bef86-2f5e-4030-92d7-9744a18151b0/3fc3e5ae-84c1-45d3-9593-d0589ae76307/image.png)\n\nProf. Pratishtha Mathur\n\nHead, IT\n\n![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d05bef86-2f5e-4030-92d7-9744a18151b0/efe9b363-8bf5-4275-9a5d-dc5f5da30df9/image.png)\n\nProf. Akhilesh Sharma\n\nHead, DSE\n'",
+          "date": "16-09-2024"
+        },
+        {
+          "name": "First Year",
+          "type": "Page",
+          "synonyms": [
+            "First Year",
+            "Freshman",
+            "Year One",
+            "B.Tech First Year",
+            "Course Coordinators",
+            "Section Coordinators",
+            "Teacher Guardian",
+            "Academic Staff",
+            "Contacts",
+            "Faculty"
+          ],
+          "url": "https://prabhas.notion.site/First-Year-74ad7078bdc44c23ad0b0855d840f92e",
+          "content": "'\n<aside>\n📌\n\nPLEASE NOTE THE INFORMATION IS WRONG AS THE WHOLE LIST HAS BEEN CHANGED! \n\n</aside>\n\n# Course Coordinator\n\n## Semester 1\n\n| B.Tech Program | Course Code | Name of Course Coordinator | Mobile No. | Email |\n| --- | --- | --- | --- | --- |\n| Engineering Physics (EP+EPLAB) | PHY1001 | Dr. Sashi Shekhar Tiwari\n\nDr. Anurag Sharma | +91 96216 29640\n\n+91 89096 79379 | [shashi.tiwary@jaipur.manipal.edu](mailto:shashi.tiwary@jaipur.manipal.edu)\n\n[anurag.sharma@jaipur.manipal.edu](mailto:anurag.sharma@jaipur.manipal.edu) |\n| Computational Mathematics (CM) | MAS1002 |   | +91 94140 73300 | [alok.bhargava@jaipur.manipal.edu](mailto:alok.bhargava@jaipur.manipal.edu) |\n| Environmental Studies (EVS) | CHY1002 | Dr. Michel Prabhu | +91 87541 99342 | [michelprabhu.inbaraj@jaipur.manipal.edu](mailto:michelprabhu.inbaraj@jaipur.manipal.edu) |\n| Engineering Materials & Mechanics | CIV1001 | Dr. Sourav Kumar Das | +91 88909 51739 | [souravkumar.das@jaipur.manipal.edu](mailto:souravkumar.das@jaipur.manipal.edu) |\n| Matlab for Engineers (MFE) | MEE1006 | Dr. Somenath Gouri | +91 97846 42941 | [somenath.gorai@jaipur.manipal.edu](mailto:somenath.gorai@jaipur.manipal.edu) |\n| Biology for Engineers (BFE) | BIT1001 | Dr. Nadana Raja Vadivu G | +91 86750 86352 | [nadana.vadivu@jaipur.manipal.edu](mailto:nadana.vadivu@jaipur.manipal.edu) |\n| IoT Fab Lab 2 (IoT) | MCE1030 | Dr. Kumar Gaurav | +91 96727 89881 | [kumar.gaurav@jaipur.manipal.edu](mailto:kumar.gaurav@jaipur.manipal.edu) |\n| Universal Human Values (UHV) | DOA1001 | Dr. Anand Pandey | +91 88907 36344 | [anand.pandey@jaipur.manipal.edu](mailto:anand.pandey@jaipur.manipal.edu) |\n| Constitution of India (Col) | LAS1010 | Dr Rahul Samota | +91 94672 16782 | [rahul.shamota@jaipur.manipal.edu](mailto:rahul.shamota@jaipur.manipal.edu) |\n\n## Semester 2\n\n| B.Tech Program | Course Code | Name of Course Coordinator | Mobile No. | Email |\n| --- | --- | --- | --- | --- |\n| Engineering Chemistry (EC) (EC LAB) | CHY1001 | Dr. Veena Dhayal | +91 99296 66807 | [veena.dhayal@jaipur.manipal.edu](mailto:veena.dhayal@jaipur.manipal.edu) |\n| Calculus & Matrices (CAM) | MAS1001 | Dr. Indeewar Kumar | +91 97720 67163 | [indeewar.kumar@jaipur.manipal.edu](mailto:indeewar.kumar@jaipur.manipal.edu) |\n| Electrical & Electronics System (EES) | EEE1002 | Dr. Ankur Sharia\n\nDr Vishnu Goyal | +91 90011 48102\n\n+91 81071 77813 | [ankur.saharia@jaipur.manipal.edu](mailto:ankur.saharia@jaipur.manipal.edu)\n\n[vishnu.goyal@jaipur.manipal.edu](mailto:vishnu.goyal@jaipur.manipal.edu) |\n| Creativity & Innovation (CAI) | MEE1007 | Dr. Upendra Kulshrestha | +91 94613 01943 | [upendra.kulshrestha@jaipur.manipal.edu](mailto:upendra.kulshrestha@jaipur.manipal.edu) |\n| Problem Solving Using Computers (PSUC) | CSE1002 | Dr. Jeyakrishnan V | +91 99942 15490 | [jeyakrishnan.v@jaipur.manipal.edu](mailto:jeyakrishnan.v@jaipur.manipal.edu) |\n| Engineering Graphics Lab (EG LAB) | MEE1035 | Dr. Rakesh Kumar | +91 70733 52542 | [kumar.rakesh@jaipur.manipal.edu](mailto:kumar.rakesh@jaipur.manipal.edu) |\n| Technical Writing Clinic 1 (TWC) | LLC1010 | Dr. Gulab | +91 81122 56615 | [gulab.chand@jaipur.manipal.edu](mailto:gulab.chand@jaipur.manipal.edu) |\n| Electrical & Electronics Lab | ECE1030 | Dr. Vishal Das\n\nHimanshu Priyadarshi | +91 88956 58126\n\n+91 9636359204 | [vishal.das@jaipur.manipal.edu](mailto:vishal.das@jaipur.manipal.edu)\n\n[himanshu.priyadarshi@jaipur.manipal.edu](mailto:himanshu.priyadarshi@jaipur.manipal.edu) |\n| Problem Solving Using Computers Lab (PSUC Lab) | CSE1031 | Dr. Rajat Goel | +91 98295 53153 | [rajat.goel@jaipur.manipal.edu](mailto:rajat.goel@jaipur.manipal.edu) |\n\n> Your Course Coordinator is responsible for the course as a whole.\n> \n\n---\n\n---\n\n# Section Coordinator\n\n| Section | Section Coordinator | Contact No. | Outlook ID |\n| --- | --- | --- | --- |\n| A1 | Dr. Nikhil Vivek Srivas | +91 95793 27275 | [nikhilvivek.shrivas@jaipur.manipal.edu](mailto:nikhilvivek.shrivas@jaipur.manipal.edu) |\n| B1 | Dr. Princy Randhawa | +91 87160 02003 | [princy.randhawa@jaipur.manipal.edu](mailto:princy.randhawa@jaipur.manipal.edu) |\n| C1 | Dr. Ashish Kumar Srivastava | +91 97842 77269 | [ashishkumar.srivastava@jaipur.manipal.edu](mailto:ashishkumar.srivastava@jaipur.manipal.edu) |\n| D1 | Dr. Lav Maheshwari | +91 94610 42624 | [lav.maheshwari@jaipur.manipal.edu](mailto:lav.maheshwari@jaipur.manipal.edu) |\n| E1 | Mr. Raghuvesh Tiwary | +91 79761 45286 | [raghuvesh.tiwary@jaipur.manipal.edu](mailto:raghuvesh.tiwary@jaipur.manipal.edu) |\n| F1 | Dr. Krishna Kant Pandey | +91 97989 46481 | [krishna.pandey@jaipur.manipal.edu](mailto:krishna.pandey@jaipur.manipal.edu) |\n| G1 | Dr. Ramanpreet Singh | +91 99285 99992 | [ramanpreet.singh@jaipur.manipal.edu](mailto:ramanpreet.singh@jaipur.manipal.edu) |\n| H1 | Dr. Ashok Kumar Pal | +91 78706 23739 | [ashok.pal@jaipur.manipal.edu](mailto:ashok.pal@jaipur.manipal.edu) |\n| I1 | Mr. Sagar Gupta | +91 78378 88980 | [sagar.gupta@jaipur.manipal.edu](mailto:sagar.gupta@jaipur.manipal.edu) |\n| J1 | Dr. Alok Bhargava | +91 94140 73300 | [alok.bhargava@jaipur.manipal.edu](mailto:alok.bhargava@jaipur.manipal.edu) |\n| K1 | Mr. Mohit Jain | +91 94148 77642 | [mohit.jain@jaipur.manipal.edu](mailto:mohit.jain@jaipur.manipal.edu) |\n| L1 | Dr. Ashok Kumar Kumawat | +91 78279 20040 | [ashokkumar.kumawat@jaipur.manipal.edu](mailto:ashokkumar.kumawat@jaipur.manipal.edu) |\n| M1 | Dr. Pushpendra Kumar | +91 91663 61797 | [pushpendra.kumar@jaipur.manipal.edu](mailto:pushpendra.kumar@jaipur.manipal.edu) |\n| N1 | Dr. Prathap Somu | +91 78921 97581 | [prathap.somu@jaipur.manipal.edu](mailto:prathap.somu@jaipur.manipal.edu) |\n| O1 | Dr. Diksha Srivastava | +91 75971 30060 | [diksha.srivastava@jaipur.manipal.edu](mailto:diksha.srivastava@jaipur.manipal.edu) |\n| P1 | Dr. K P Misra | +91 94521 92611 | [kamakhyaprakash.misra@jaipur.manipal.edu](mailto:kamakhyaprakash.misra@jaipur.manipal.edu) |\n| Q1 | Dr. Reema Jain | +91 94622 22922 | [reema.jain@jaipur.manipal.edu](mailto:reema.jain@jaipur.manipal.edu) |\n| R1 | Dr. Hemant Raj Singh | +91 94147 87734 | [hemant.singh@jaipur.manipal.edu](mailto:hemant.singh@jaipur.manipal.edu) |\n| S1 | Dr. Somenath Gorai | +91 97846 42941 | [somenath.gorai@jaipur.manipal.edu](mailto:somenath.gorai@jaipur.manipal.edu) |\n| T1 | Dr. Sathi Sharma | +91 80166 78934 | [sathi.sharma@jaipur.manipal.edu](mailto:sathi.sharma@jaipur.manipal.edu) |\n\n> Your Section Coordinator has the responsibility of the Section.\n> \n\n---\n\n---\n\n# Teacher Guardian\n\n| Dr Vinod Yadav | +91 82333 43423  | [vinod.yadav@jaipur.manipal.edu](mailto:vinod.yadav@jaipur.manipal.edu) |\n| --- | --- | --- |\n\n> The TG will conduct meetings per month to ensure your academic progress.\n>\n'",
+          "date": "16-09-2024"
+        },
+        {
+          "name": "Contact list",
+          "type": "Page",
+          "synonyms": [
+            "Contacts",
+            "Contact List",
+            "Directory",
+            "Email Addresses",
+            "Phone Numbers",
+            "Staff Contacts",
+            "Administrative Contacts",
+            "Faculty Contacts",
+            "Office Contacts",
+            "Communication"
+          ],
+          "url": "https://prabhas.notion.site/Contact-list-fb7eb50729bb4455907be625c0c480f6",
+          "content": "'\n<aside>\n📌\n\nPlease note this list excludes the contacts mentioned in other dedicated pages (Topic). And can also include duplicates. Be advised.\n\n</aside>\n\n### DoA Office\n\nRoom 001 (1AB Building)\n\n[director.academic@jaipur.manipal.edu](mailto:director.academic@jaipur.manipal.edu)\n\nExt: 217, 640\n\n### Academic Section (Exam related)\n\nRoom 217 (1AB Building)\n\n[academic@jaipur.manipal.edu](mailto:academic@jaipur.manipal.edu)\n\nExt: 263, 846\n\n### AMS Office (SLcM Related)\n\n3d Floor (1C Building)\n\n[dms@jaipur.manipal.edu](mailto:dms@jaipur.manipal.edu)\n\n[ams@jaipur.manipal.edu](mailto:ams@jaipur.manipal.edu)\n\nExt: 591, 687, 393, 738, 784\n\n### B.Tech 1Y Office (First year queries)\n\nRoom 125 (1AB Building)\n\n[pa.coordinatorfirstyearbtech@jaipur.manipal.edu](mailto:pa.coordinatorfirstyearbtech@jaipur.manipal.edu)\n\nExt: 344, 272, 355\n\n---\n\n### Other\n\nProf. Ajay Kumar (Director) \n\nExt: 217\n\nEmail: ajay.kumar@jaipur.manipal.edu\n\nProf. Anand Pandey (Deputy Director)\n\nExt: 344\n\nEmail: anand.pandey@jaipur.manipal.edu\n\nDr. Kusum Lata Jain (Deputy Director)\n\nExt: 691\n\nEmail: kusumlata.jain@jaipur.manipal.edu\n\nDr. Dalip Singh Shekhawat (Deputy Director)\n\nExt: 272\n\nEmail: dalip.shekhawat@jaipur.manipal.edu\n\nDr. Susruta Samanta (Deputy Director)\n\nExt: 640\n\nEmail: susruta.samanta@jaipur.manipal.edu\n'",
+          "date": "16-09-2024"
+        },
+        {
+          "name": "Counselling Services",
+          "type": "Page",
+          "synonyms": [
+            "Counselling",
+            "Counseling Services",
+            "Student Counsellors",
+            "Personal Support",
+            "Emotional Support",
+            "Psychological Services",
+            "Appointments",
+            "Mental Health",
+            "Wellness",
+            "Guidance"
+          ],
+          "url": "https://prabhas.notion.site/Counselling-Services-05f1a0f47bc74863ad0ab6d9683f4c5a",
+          "content": "'\nFollowing student counsellors are available to address your Personal, Emotional, Social, Academic and Psychological Concerns:\n\nDr. Rimpy Sharma \n\nMs. Vandna Kabra \n\nMs. Devanshi Padaliya\n\n---\n\n### For Appointment\n\nPhone No.: +91 141 3999100 | 812\n\nExt: 812\n\n[students.counsellor@jaipur.manipal.edu](mailto:students.counsellor@jaipur.manipal.edu)\n\n---\n\n### Location & Timing\n\nRoom no. 001 AB1,\nCabin no 305, 309, & 314\nFaculty Block 6 AB 2.\n\n9:00 to 18:00\n(Monday to Friday)\n'",
+          "date": "16-09-2024"
+        }
+      ]
+    },
+    {
+      "name": "Engineering Materials & Mechanics (EMM)",
+      "type": "Civil Notebook",
+      "synonyms": [
+        "EMM",
+        "Engineering Materials",
+        "Mechanics",
+        "Civil Engineering",
+        "Materials Science",
+        "Construction",
+        "Structural Engineering",
+        "Building Materials",
+        "Mechanics of Materials",
+        "EMM Notes"
+      ],
+      "url": "https://prabhas.notion.site/Engineering-Materials-Mechanics-EMM-c6ba1d27d8864a92ba36144e6771d4aa",
+      "children": [
+        {
+          "name": "Cement",
+          "type": "Notes",
+          "synonyms": [
+            "Cement",
+            "Portland Cement",
+            "Bogue's Compounds",
+            "Hydration",
+            "Types of Cement",
+            "CSH Gel",
+            "Laboratory Tests",
+            "Specific Gravity",
+            "Fineness Test",
+            "Construction Materials"
+          ],
+          "url": "https://prabhas.notion.site/Cements-0dd4456a45054dc384a376ae9d0a0f30",
+          "content": "\n<aside>\n⚠️\n\nAsk sir is Portland cement in the list of cement is OPC?\n\n</aside>\n\n> Cement is a crystalline compound composed mainly of calcium silicates and other calcium compounds. It has **hydraulic properties**, meaning it can set and harden when combined with water.\n> \n\nCement is used to bind sand-like materials (Fine Aggregates) or larger particles (coarse aggregates).\n\nCement appears as a fine, greyish powder with an approximate size of $50\\mu m$.\n\n---\n\n## **Bogue’s Compounds**\n\nPure cement known as Ordinary Portland Cement (OPC) is built only with Bogue’s Compounds.\n\nBogue’s Compounds consists of 4 compounds:\n\n1. Tricalcium Silicate $(\\text C_3\\text S)$\n    - **Chemical Formula**: $3\\text{CaO}\\cdot \\text{SiO}_2$\n    - **Content in Cement**: About $45-60$ %\n    - **Role**:\n        - Responsible for the early strength of the cement (within the first 7 days).\n        - Reacts with water rapidly, producing heat (exothermic reaction) during the hydration process.\n        - The higher the $\\text C_3\\text S$ content, the quicker the concrete gains strength.\n\n1. Dicalcium Silicate $(\\text C_2\\text S)$\n    - **Chemical Formula**: $2\\text{CaO}\\cdot\\text{SiO}_2$\n    - **Content in Cement**: About $15-30$ %\n    - **Role**:\n        - Contributes to strength at later stages (after 7 days around for 1 year).\n        - It hydrates more slowly than $\\text C_3\\text S$, resulting in long-term strength development.\n        - Produces less heat during hydration, which is beneficial in mass concrete to avoid cracking.\n\n1. Tricalcium Aluminate $(\\text C_3\\text A)$\n    - **Chemical Formula**: $3\\text{CaO}\\cdot \\text{Al}_2\\text{O}_2$\n    - **Content in Cement**: About $10-15$ %\n    - **Role**:\n        - Contributes to the early setting (hardening) of cement\n        - Generates significant heat during hydration, which can be useful for cold weather concreting.\n        - In the presence of gypsum, it helps control the setting time of cement. High $\\text C_3\\text A$ content can make the cement vulnerable to sulfate attack, so it needs to be well-balanced.\n\n1. Tetracalcium Aluminoferrite $(\\text C_4\\text{AF})$\n    - **Chemical Formula**: $4\\text{CaO}\\cdot \\text{Al}_2\\text{O}_3 \\cdot \\text{Fe}_2\\text{O}_3$\n    - **Content in Cement**: About $<5$ %\n    - **Role**:\n        - Responsible for the color of cement, contributing to its greyish shade.\n        - Has a minor role in strength development but helps reduce the temperature of the kiln during the production process, thus saving energy. [Durablity]\n        - Reacts moderately fast but produces low heat compared to $\\text C_3\\text A$.\n\n---\n\n## **CSH Gel (Calcium Silicate Hydrate Gel):**\n\n1. **Formation**:\n    - When cement reacts with water, the compounds in cement (especially Tricalcium Silicate, $\\text C_3\\text S$, and Dicalcium Silicate, $\\text C_2\\text S$) undergo a process known as **hydration**. During this process, **CSH gel** is formed along with calcium hydroxide $(\\text{Ca(OH)}_2)$, which are the primary products of this reaction.\n    - The chemical reaction for C₃S can be represented as:\n    \n    $$\n    ⁍\n    $$\n    \n    - A similar reaction occurs with $\\text C_2\\text S$, although it happens more slowly, leading to long-term strength development.\n    - The chemical reaction for C₃S can be represented as:\n    \n    $$\n    ⁍\n    $$\n    \n    - Both can be aproximited to\n    \n    $$\n    \\begin{align*}\n    \n    \\text C_3\\text S + \\text H_2\\text O \\approx 3\\text{CSH} \\\n    \\text C_2\\text S + \\text H_2\\text O \\approx 2\\text{CSH} \n    \\end{align*}\n    $$\n    \n2. **Structure**:\n    - **CSH gel** is a **gel-like**, amorphous (non-crystalline) substance that fills the spaces between the particles in concrete. It creates a solid, interconnected matrix that provides the concrete with its characteristic strength and durability.\n    - Its structure is complex, with small, interlocking particles that form a continuous network, binding the aggregate materials together.\n3. **Role in Concrete**:\n    - **Strength**: CSH gel is primarily responsible for the **strength** of hardened concrete. As more CSH forms over time, the strength of the concrete increases.\n    - **Binding**: It acts as the main binding phase in cement paste, holding the aggregates (both fine and coarse) together in concrete.\n    - **Porosity Reduction**: By filling in the pores and voids in the concrete mix, CSH gel helps reduce the permeability of concrete, making it more durable and resistant to external factors like water ingress.\n4. **Properties**:\n    - **High Strength**: CSH gel contributes to the **compressive strength** of concrete. The more CSH gel formed, the stronger the concrete.\n    - **Water Retention**: The gel has a high capacity to retain water, which is crucial for the continued hydration of cement and strength development.\n    - **Durability**: By reducing porosity and permeability, CSH gel makes concrete more durable and resistant to **chemical attacks**, **weathering**, and **erosion**.\n5. **Calcium Hydroxide (Ca(OH)₂)**:\n    - In addition to CSH gel, calcium hydroxide $(\\text{Ca(OH)}_2)$ is produced during hydration. However, while $\\text{Ca(OH)}_2$ contributes somewhat to strength, it is more vulnerable to chemical attacks (like sulfate attack or carbonation). Therefore, concrete durability largely relies on the CSH gel.\n\n---\n\n## Why we can’t just choose any amount of **Bogue’s Compounds?**\n\nWhile it might seem beneficial to increase the amount of **$\\text C_3\\text S$** (Tricalcium Silicate) or **$\\text C_3\\text A$** (Tricalcium Aluminate) to enhance early strength, their **hydration reactions** are highly **exothermic** (release heat). These reactions can lead to temperatures exceeding **60°C**, which can cause the **water** in the concrete to **evaporate** or **rise to the surface**. This results in **poor hydration** in some areas, causing parts of the cement to miss proper water contact, leading to **wastage of cement**.\n\nAdditionally, the rapid generation of heat can cause **thermal stresses** within the concrete, leading to **cracking** or premature hardening in some areas. This may also **block the flow paths** of water within the mix, further preventing proper hydration and weakening the overall structure.\n\n---\n\n## Types of cement\n\n1. **Ordinary Portland Cement (OPC)**\n    - This is not freely available in indian markets\n    - Can be either 53 or 43 or 33 Grade\n        - Grade refer to the **compressive strength** of the cement in megapascals $(\\text{MPa})$ after **28 days of curing**.\n        - You will not see grade in other types of cement becuase other additives changes the compressive strength and other metrics are more important than compressive strength.\n    - Used for general construction. No special feature as this is the base configuration of cements.\n\n1. **Portland Pozzolana Cement (PPC)**\n    - PPC is a type of blended cement that contains **pozzolanic materials** (like fly ash, volcanic ash, or calcined clay) mixed with OPC.\n        - **Pozzolanic materials** are siliceous or siliceous and aluminous materials that, while possessing little or no cementitious properties themselves, react chemically with calcium hydroxide (Ca(OH)₂) in the presence of water to form compounds with cementitious properties. This reaction is known as the **pozzolanic reaction**.\n    - **Fly Ash Cement** is a example of PPC inwhich pozzolanic materials material used is Fly Ash.\n        - A byproduct of burning coal in thermal power plants.\n    - PPC has lower early strength than OPC but gains higher ultimate strength over time. It also has improved workability, lower permeability, and enhanced resistance to sulfate attack.\n    \n2. **Rapid Hardening Cement**\n    - More $\\text C_2\\text S$ and less $\\text C_2\\text S$\n    - The **fineness** of the cement particles is greater than that of Ordinary Portland Cement (OPC), allowing it to react faster with water.\n    - The initial and final setting times of RHC are similar to those of OPC. However, the difference lies in the **rate of strength development** after the setting process is complete.\n    - RHC generates more heat during hydration compared to OPC due to the rapid reaction of C₃S. This makes it less suitable for **mass concreting**, where excess heat can cause thermal cracking.\n    - Used when early strength require like **Road Repairs, In Cold Weather Construction**\n\n1. **Quick setting cement**\n    - Quick setting cement begins to set within **5 to 30 minutes** and hardens within a few hours. This is much shorter than that of OPC, which takes about 30-45 minutes to begin setting.\n    - It has a reduced amount of **gypsum** ($\\text{CaSO}_4\\cdot2\\text H_2\\text O$), which is responsible for slowing down the setting time of cement.\n    - It often contains additives like **aluminum sulfate$(\\text{Al}_2(\\text{SO}_4)_3)$** to accelerate the setting process.\n    - The **fineness** of quick setting cement is higher than OPC, which contributes to its faster setting and hardening.\n    - The rapid setting reaction occurs due to the accelerated hydration of **Tricalcium Aluminate $(\\text C_3 \\text A)$** and other compounds, which react quickly with water, leading to faster formation of the CSH gel.\n    - The heat of hydration is **moderate**, and the fast-setting nature helps avoid issues in waterlogged or submerged conditions where longer setting times would allow water to weaken the mix.\n    - Ideal for construction in **waterlogged** areas or **underwater** projects\n\n1. **Sulphates resisting cement**\n    - **Sulphate Resisting Cement (SRC)** is a type of **Portland cement** designed to resist the aggressive action of **sulphates** in environments such as soils, groundwater, or seawater that contain high levels of sulphates.\n    - SRC has a **lower percentage of Tricalcium Aluminate $(\\text C_3 \\text A)$** (less than $5\\%$), which is the compound in OPC that is most vulnerable to sulphate attack.\n        - Reducing the $\\text C_3 \\text A$ content helps in reducing the formation of **ettringite**, which can cause expansion and cracking in the concrete due to sulphate attack.\n    - Example use: Underwater construction, when sulphate present\n\n1. **Slag Cement**\n    - **Slag Cement**, also known as **Ground Granulated Blast Furnace Slag (GGBFS)**, is a hydraulic cement made from **granulated blast furnace slag**, a byproduct of iron production in blast furnaces. It is often used as a supplementary cementitious material (SCM) to improve the properties of concrete, typically blended with **Ordinary Portland Cement (OPC)**.\n        - It is used as a **partial replacement** for OPC in concrete, typically replacing **20-70%** of the OPC by mass, depending on the application and desired properties.\n\n1. **Coloured Cement**\n    - **Coloured Cement** is a type of cement that is mixed with **pigments** to produce different colors for aesthetic purposes. It is commonly used in decorative concrete applications where both strength and appearance are important. The base cement used for coloured cement is typically **Ordinary Portland Cement (OPC)** or **White Cement**, which is then mixed with mineral pigments to achieve the desired color.\n    - Common pigments include:\n        1. **Iron Oxide** for red, brown, or yellow hues.\n        2. **Cobalt Oxide** for blue.\n        3. **Chromium Oxide** for green.\n        4. **Titanium Dioxide** for white.\n        5. **Manganese Oxide** for black or brown tones.\n\n1. High Alumina Cement\n    - Highly refractory cement.\n        - In the context of cement, **refractory** refers to materials that are **highly resistant to heat** and are able to withstand **extremely high temperatures** without breaking down.\n        - In other words, excellent heat resistance\n        - It is because it contains high **alumina $(\\text{Al}_2\\text 0_3)$**, which provides high thermal stability.\n    - It is more workable becauce of finner particle size, Higher Water Retention, Lower Setting Time than OPC\n    - Example use includes underwater construction.\n\n1. **Low heat cement**\n    - The primary feature of **Low Heat Cement** is that it generates significantly less heat during the hydration process compared to **Ordinary Portland Cement (OPC)**.\n        - This is achieved by reducing the content of **Tricalcium Silicate $(\\text C_3 \\text S)$** and **Tricalcium Aluminate $(\\text C_3 \\text A)$**, which are the compounds responsible for most of the heat generation during hydration.\n    - The lower heat of hydration minimizes the risk of **thermal cracking**, especially in **mass concrete applications**, where temperature gradients within the structure can cause expansion and contraction, leading to cracks.\n\nOther common types of cement are:\n\n1. Hydraulic Cement\n2. Portland lime-stone cement\n3. Blended Cement\n4. Pozzolan lime Cement\n5. Masonry Cement\n6. Aluminous Cement\n7. Blast Furnace Slag Cement\n8. White Cement\n9. Pozzolanic Cement\n10. Air Entraining Cement\n11. Hydrographic cement\n\n> We can have Extra rapid hardening cement by adding extra $\\text{CaCl}_2$\n> \n\n---\n\n# Tests\n\nTests for cement can be catogirsed in 2 category:\n\n1. Laboratory test: These are the test conducted in lab by the manufacturers.\n2. Field test: These are the test conducted in the construction sites.\n\n## Laboratory test of cements\n\n### Fineness test\n\nThe **fineness of cement** is a measure of how well the cement particles are ground. It is an essential parameter that influences the rate of hydration, strength development, and the overall workability of cement. Finer cement particles provide more surface area for the hydration process, which speeds up the strength gain.\n\nThere are several methods to determine the fineness of cement. The most common method is **Sieve Test**\n\n**Procedure:**\n\n1. A **standard $90 \\mu m$ sieve** (No. 9 sieve) is used for the fineness test.\n2. **100 grams** of cement is taken and placed on the sieve.\n3. The cement is **manually sieved** by shaking the sieve or using a mechanical sieve shaker.\n4. The **residue left on the sieve** is weighed and expressed as a percentage of the original sample.\n\n**Result:**\n\n- The **percentage of cement retained on the 90 µm sieve** gives the fineness of the cement.\n- According to the **IS 4031 (Part 1): 1996** standard, the residue should not exceed **10%** by weight for **Ordinary Portland Cement (OPC)**.\n\n**Significance:**\n\nIf the residue is high, it means the cement particles are coarser, and it may delay the strength development of the concrete.\n\n### Specific gravity test\n\n**Specific gravity** is the ratio of the weight of a given volume of a substance to the weight of an equal volume of water.\n\n**Procedure**:\n\n1. **W1**: Weigh the empty flask\n2. **W2**: Weigh the flask when it is half-filled with cement.\n3. **W3**: Weigh the flask when filled and stirred with **kerosene** (a non-reactive liquid, as water hydrates the cement).\n    \n    → Note in india Kerosene is not found due to restricted production so we use **Light Mineral Oil or similar liquids.**\n    \n4. **W4**: Weigh the flask when it is completely filled with **kerosene** **alone**.\n\n**Formula:**\n\n$$\n\\text{Specific Gravity} = \\frac{W_2 - W_1}{(W_3 - W_2) - (W_4 - W_1)\\times 0.79}\n$$\n\nwhere:\n\n→ 0.79 is the **specific gravity of kerosene** (since it's used to displace air and prevent hydration).\n\n→ Use specific gravity of liquid used instead of 0.79 when kerosene is not used for the test.\n\n**Typical Results:**\n\n- **OPC**: 3.15\n- **PPC**: Ranges from **2.7 to 3.05**\n\n**Significance:**\n\n- **Specific gravity** helps determine the **density** of the cement.\n- A high specific gravity indicates that the cement is dense and of good quality, while low specific gravity can point to impurities or moisture content.\n- The **specific gravity** of cement is crucial for determining the **mix proportions** for concrete, especially for ensuring the proper workability and strength of the final product.\n- It also helps identify if the cement has been stored properly, as **moisture absorption** can lower the specific gravity.\n",
+          "date": "19-09-2024"
+        }
+      ]
+    },
+    {
+      "name": "Computational Mathematics (CM)",
+      "type": "Maths Notebook",
+      "synonyms": [
+        "CM",
+        "Computational Mathematics",
+        "Mathematics",
+        "Maths",
+        "Numerical Methods",
+        "Algorithms",
+        "Mathematical Modeling",
+        "Math Notebook",
+        "Computations",
+        "CM Notes"
+      ],
+      "url": "https://prabhas.notion.site/Computational-Mathematics-CM-bac5b80ea0534fe0be882025601b1cbd",
+      "children": [
+        {
+          "name": "Interpolation",
+          "type": "Notes",
+          "synonyms": [
+            "Interpolation",
+            "Operators",
+            "Forward Difference",
+            "Backward Difference",
+            "Shift Operator",
+            "Higher Order Operators",
+            "Mathematical Formulas",
+            "Numerical Analysis",
+            "Interpolation Methods",
+            "Mathematical Operators"
+          ],
+          "url": "https://prabhas.notion.site/Interpolation-50154f87a546465a862e40e75524b51d",
+          "content": "'\\n## Operators\\n\\nOperators are like a function of function. \\n\\nExamples include the Differentiation operator.\\n\\n### Forward Difference Operator\\n\\n$$\\n/Delta f(x) = f(x + h) - f(x)\\n$$\\n\\nwhere $h$ is the step size. $h /in /mathbb R$ is constant.\\n\\n$$\\n/begin{align} /Delta c &= c(x+h) - c(x) /nonumber //         &= c - c /nonumber //         &= 0/end{align}\\n$$\\n\\nwhere $c$ is constant\\n\\n$$\\n/begin{align}\\n/text{ket }k = f + g /nonumber // / /nonumber ///implies /Delta (f + g) &= /Delta k /nonumber //&= k(x + h) - k(h) /nonumber //&= f(x+h) + g(x+h) - [f(h) + g(h)] /nonumber //&= [f(x + h) - f(h)] + [g(x + h) - g(h)] /nonumber //&= /Delta f + /Delta g\\n\\n/end{align}\\n$$\\n\\n$$\\n/begin{align}/Delta (a f(x)) &= (a f(x+h)) - (a f(x)) /nonumber //\\xa0\\xa0 \\xa0 \\xa0 \\xa0 \\xa0 \\xa0 \\xa0 \\xa0 &= a [f(x+h) - f(x)] /nonumber //\\xa0 \\xa0 \\xa0 \\xa0 \\xa0 \\xa0 \\xa0 \\xa0 &= a (/Delta f(x))/end{align}\\n$$\\n\\n### Backward Difference Operator\\n\\n$$\\n/Delta f(x) = f(x) - f(x - h)\\n$$\\n\\nwhere $h$ is the step size. $h /in /mathbb R$ is constant.\\n\\n$$\\n/begin{align} /Delta c &= c(x) - c(x-h) /nonumber //  &= c - c /nonumber //         &= 0/end{align}\\n$$\\n\\nwhere $c$ is constant\\n\\n$$\\n/begin{align}\\n/text{let } k = f + g /nonumber // /  /nonumber // /implies /nabla (f + g) &= /nabla k /nonumber // &= k(x) - k(x - h) /nonumber // &= [f(x) + g(x)] - [f(x - h) + g(x - h)] /nonumber // &= [f(x) - f(x - h)] + [g(x) - g(x - h)] /nonumber // &= /nabla f + /nabla g/end{align}\\n$$\\n\\n$$\\n/begin{align}/nabla (a f(x)) &= a f(x) - a f(x - h) /nonumber // &= a [f(x) - f(x - h)] /nonumber // &= a (/nabla f(x))/end{align}\\n$$\\n\\n### Shift Operator\\n\\n$$\\nE f(x) = f(x + h)\\n$$\\n\\nwhere $h$ is the step size. $h /in /mathbb R$ is constant.\\n\\n### Higher Order operators\\n\\n$$\\n/begin {align*} \\n\\n/Delta^2 f(x) &= /Delta (/Delta f(x))//\\n\\n&= /Delta [f(x + h) - f(x)]//\\n\\n&= /Delta [f(x + h)] - /Delta [f(x)]//\\n\\n&= [f(x + 2h) - f(x + h)] - [f(x + h) - f(x)]//\\n\\n&= f(x + 2h) - 2f(x + h) + f(x)\\n\\n/end{align*}\\n$$\\n\\n$$\\n/begin{align*}\\n\\n/nabla^2 f(x) &= /nabla (/nabla f(x)) //\\n\\n&= /nabla [f(x) - f(x - h)] //\\n\\n&= /nabla [f(x)] - /nabla [f(x - h)] //\\n\\n&= [f(x) - f(x - h)] - [f(x - h) - f(x - 2h)] //\\n\\n&= f(x) - 2f(x - h) + f(x - 2h)\\n\\n/end{align*}\\n$$\\n\\n$$\\n/begin{align}\\nE^n (f(x)) = f(x + nh)\\n\\n/end{align}\\n$$\\n\\n$$\\n/begin{align}\\nE^- (f(x)) = f(x -h)\\n\\n/end{align}\\n$$\\n\\n### Few results\\n\\n$$\\n/begin{align} \\n/Delta e^x &= e^{x+h} - e^x /nonumber //\\n\\n/Delta^2 e^x &= /Delta (/Delta e^x) /nonumber //\\n\\n&= /Delta [e^{x+h} - e^x] /nonumber //\\n\\n&= [e^{x+2h} - e^{x+h}] - [e^{x+h} - e^x] /nonumber //\\n\\n&= e^{x+2h} - 2e^{x+h} + e^x /nonumber //\\n\\n&= e^{2x}(e^h - 1)^2 /nonumber // / /nonumber //\\n\\n/implies /Delta^n e^x &= e^{nx}(e^h - 1)^n\\n/end{align}\\n\\n$$\\n\\n$$\\n/begin{align}\\n/nabla e^x &= e^x - e^{x-h} = e^x(1 - e^{-h})/nonumber //\\n\\n/nabla^2 e^x &= /nabla (e^x(1 - e^{-h})) /nonumber //\\n\\n&= /left[e^x(1 - e^{-h})/right] - /left[e^{x-h}(1 - e^{-h})/right] /nonumber //\\n\\n&= (1 - e^{-h})[e^x - e^{x-h}] /nonumber //\\n\\n&= (1 - e^{-h})e^x(1 - e^{-h}) /nonumber //\\n\\n&= e^{x}(1 - e^{-h})^2 /nonumber //\\n/ /nonumber //\\n\\n/implies /nabla^n e^x &= e^{x}(1 - e^{-h})^n //\\n\\n/end{align}\\n$$\\n\\n$$\\n/begin{align}\\n/Delta f = E(f) - f(x)\\n/end{align}\\n$$\\n\\n$$\\n/begin{align}\\n/Delta /nabla f(x) &= /Delta[/nabla f(x)] /nonumber // &= /Delta[f(x) - f(x-h)] /nonumber // &= /left[ /{f(x+h) - f(x)/} /right] - /left[ /{f(x) - f(x-h)/} /right] /nonumber // &= f(x+h) - f(x) - f(x) + f(x-h) /nonumber // &= f(x+h) - 2f(x) + f(x-h) /nonumber // /nonumber //\\n/Delta f(x) - /nabla f(x) &= /left[ f(x+h) - f(x) /right] - /left[ f(x) - f(x-h) /right] /nonumber // &= f(x+h) - 2f(x) + f(x-h) /nonumber // /nonumber //\\n/therefore /Delta /nabla &= /Delta - /nabla ///end{align}\\n$$\\n'",
+          "date": "19-09-2024"
+        },
+        {
+          "name": "Course Knowledge",
+          "type": "Page",
+          "synonyms": [
+            "Course Information",
+            "Exam Pattern",
+            "Syllabus",
+            "MTE",
+            "ETE",
+            "Modules",
+            "Assessment",
+            "Grading",
+            "Midterm Exam",
+            "End Term Exam"
+          ],
+          "url": "https://prabhas.notion.site/Course-Knowledge-58a9ec9103d247f0bf1df957cf9a527c",
+          "content": "'\n## Exam pattern\n\n### MTE\n\n| Section | Average amount of page / Qs | No. Of questions | Marks per Question | Total Marks |\n| --- | --- | --- | --- | --- |\n| SECTION-A (MCQ) | Unknown | 3 | 2 | 6 |\n| SECTION-B (Concept Based Questions) | half to 1 page | 4 | 4 | 16 |\n| SECTION-C (Analytical Based Questions) | 3+ pages | 1 | 8 | 8 |\n| **Total** |  |  |  | **30** |\n\n### ETE\n\n| Section | Average amount of page / Qs | No. Of questions | Marks per Question | Total Marks |\n| --- | --- | --- | --- | --- |\n| SECTION-A (MCQ) | Unknown | 5 | 2 | 10 |\n| SECTION-B (Concept Based Questions) | half to 1 page | 6 | 5 | 30 |\n| SECTION-C (Analytical Based Questions) | 3+ pages | 4 | 10 | 40 |\n| **Total** |  |  |  | **80** |\n\n---\n\n## Syllabus\n\n**MTE**: Up till 4 module\n'"
+        }
+      ]
+    },
+    {
+      "name": "Matlab",
+      "type": "Page",
+      "synonyms": [
+        "Matlab",
+        "MATLAB",
+        "Programming",
+        "Numerical Computing",
+        "Engineering Software",
+        "Simulation",
+        "MathWorks",
+        "Coding",
+        "Software Tools",
+        "Matlab Page"
+      ],
+      "url": "https://prabhas.notion.site/Matlab-44046de908614efb9395209d775e2d8c",
+      "content": "Sir’s number: +91 98825 16421",
+      "date": "19-09-2024"
+    }
+  ]
